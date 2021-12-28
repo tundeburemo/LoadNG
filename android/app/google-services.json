@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "131874417199",
+    "firebase_url": "https://loadng-automated-systems.firebaseio.com",
+    "project_id": "loadng-automated-systems",
+    "storage_bucket": "loadng-automated-systems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131874417199:android:ecb12f2c8548fd2325b4da",
+        "android_client_info": {
+          "package_name": "loadng.com.loadng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131874417199-tm8l85qj394gd93fvdm02277bhschrfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "loadng.com.loadng",
+            "certificate_hash": "59b538ec590ca2ec14e390e203d526f10821e52e"
+          }
+        },
+        {
+          "client_id": "131874417199-5ft2aoa58u2jju5799m945k2eo6jq6u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPj-l7ZksMF5_-DqYWyz-Thcifzi12pv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131874417199-5ft2aoa58u2jju5799m945k2eo6jq6u5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "131874417199-mf1cmmodgmkoo7fqrpe9kedujut4g937.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "loadng.com.loadng"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
